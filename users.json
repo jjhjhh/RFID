@@ -1,0 +1,50 @@
+[
+    {
+        "uid": 693214255894,
+        "username": "EUNHA",
+        "image": "/static/eunha.png",
+        "checked_in": false,
+        "start_time": "00:00",
+        "end_time": "00:00"
+    },
+    {
+        "uid": 97817702172,
+        "username": "PKNU",
+        "image": "/static/PKNU.png",
+        "checked_in": false,
+        "start_time": "00:00",
+        "end_time": "00:00"
+    },
+    {
+        "uid": 460768275501,
+        "username": "STARLINK",
+        "image": "/static/starlink.png",
+        "checked_in": false,
+        "start_time": "00:00",
+        "end_time": "00:00"
+    },
+    {
+        "uid": 123,
+        "username": "EH",
+        "image": "/static/123.png",
+        "checked_in": false,
+        "start_time": "00:00",
+        "end_time": "00:00"
+    },
+    {
+        "uid": 456,
+        "username": "YS",
+        "image": "/static/456.png",
+        "checked_in": false,
+        "start_time": "00:00",
+        "end_time": "00:00"
+    },
+    {
+        "uid": 789,
+        "username": "SE",
+        "image": "/static/789.png",
+        "checked_in": false,
+        "start_time": "00:00",
+        "end_time": "00:00"
+    }
+]
